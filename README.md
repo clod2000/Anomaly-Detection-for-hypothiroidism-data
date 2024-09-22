@@ -1,1 +1,1 @@
-"# UnsupLearn_AnomalyDetection" 
+Unsupervised Anomaly Detection: this is the code related to an exam in the Master degree course "Artificial Intelligence for Science and Technology", jointly erogated by University of Milano, University of Milano-Bicocca and University of Pavia (Italy).
